@@ -1,4 +1,4 @@
-<h1 align="center" style="text-transform:uppercase; font-size:24px;">Hi 👋, I'm Jerrvik</h1>
+<h1 align="center" style="text-transform:uppercase; font-size:24px;">Hi 👋, I'm Jerryvik</h1>
 
 
 <p align="center" style="line-height:32px; font-size:14px;font-weight:400;">Hi there! I'm JerryVik, a passionate web designer with a knack for creating visually appealing and user-friendly websites. With a strong background in both design principles and front-end development, I strive to bring digital experiences to life.
